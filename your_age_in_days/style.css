@@ -1,0 +1,25 @@
+.container-1{
+    border: 1px solid black;
+    margin: 200px;
+    width: 75%  ;
+    text-align: center;
+    padding: 20px;
+    border-color: rgb(82, 14, 241);
+
+}
+
+.meet-box-container-1{
+    display:flex;
+    border: 1px black solid;
+    padding:20px;
+    flex-wrap: wrap;
+    flex-direction: row ;
+    justify-content: space-around;
+    border-color: rgb(212, 46, 55);
+    background-color: yellow;
+}
+.meet-box-container-1 div{
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+}
